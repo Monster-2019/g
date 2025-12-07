@@ -46,18 +46,10 @@
           const renderIns = findTarget();
           if (!renderIns) return;
 
-          console.log(renderIns);
-
           renderIns.dataset.adsbygoogleStatus = "done";
           render(renderIns);
         });
       });
-    // if (!renderIns) {
-    //   return;
-    // }
-
-    // renderIns.dataset.adsbygoogleStatus = "done";
-    // render(renderIns);
   };
 
   window.dd = [];
