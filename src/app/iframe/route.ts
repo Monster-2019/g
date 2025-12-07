@@ -28,7 +28,7 @@ export function GET(req: Request) {
               <h1 class="text-2xl font-black">${slot}</h1>
             </a>
 
-            <a href="https://dxin.cc" target="_blank">
+            <a href="https://dxin.cc">
               <p>描述描述描述描述描述描述描述描述描述描述</p>
             </a>
 
