@@ -9,7 +9,7 @@
         style = `position: relative; width: ${width}px; height: ${height}px; margin: 0; padding: 0; background-color: transparent; border: 0;`;
 
       const iframe = document.createElement("iframe");
-      iframe.src = `http://localhost:3000/iframe?slot=${el.dataset.adSlot}`;
+      iframe.src = `/iframe?slot=${el.dataset.adSlot}`;
       iframe.style = `position: absolute; left:0; top:0; right: 0; width: ${width}px; height: ${height}px;`;
       iframe.sandbox = `allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation`;
       iframe.allowtransparency = true;

@@ -1,13 +1,6 @@
 import { Document } from "flexsearch";
 import rawJokeData from "../data/joke.json";
 
-// 定义 Joke 类型
-export type Joke = {
-  id: number;
-  category: string;
-  joke: string;
-};
-
 // 强制 jokeData 类型
 export const jokeData: { amount: number; jokes: Joke[] } = rawJokeData as any;
 

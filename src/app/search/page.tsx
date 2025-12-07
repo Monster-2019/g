@@ -38,10 +38,10 @@ export default function SearchPage() {
       <div className="mt-4 space-y-4">
         {result.map((item: any) => (
           <div key={item.id} className="rounded-lg bg-pink-200 p-4 shadow">
-            <Link href={"/detail/" + item.id} className="mt-4">
-              <p className="font-semibold">分类：{item.category}</p>
-              <p className="mt-2">{item.joke}</p>
-            </Link>
+            {/* <Link href={"/detail/" + item.id} className="mt-4"> */}
+            <p className="font-semibold">分类：{item.category}</p>
+            <p className="mt-2">{item.joke}</p>
+            {/* </Link> */}
           </div>
         ))}
       </div>
