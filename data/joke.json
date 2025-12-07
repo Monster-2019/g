@@ -1,0 +1,355 @@
+{
+    "amount": 50,
+    "jokes": [
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "I've got a really good UDP joke to tell you but I don’t know if you'll get it.",
+            "id": 0,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+            "id": 3,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "Doctor: \"I have some news about your baby.\"\nParents: \"Don't tell us the gender, we want to keep it a surprise.\"\nDoctor: \"Oh I get it, you're those type of people. Okay, well IT is not breathing.\"",
+            "id": 137,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "single",
+            "joke": "My wife and I have reached the difficult decision that we do not want children.\nIf anybody does, please just send me your contact details and we can drop them off tomorrow.",
+            "id": 256,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Documentation is like sex:\nWhen it's good, it's very good.\nWhen it's bad, it's better than nothing...",
+            "id": 304,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+            "id": 36,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "I'd tell you a joke about NAT but I would have to translate.",
+            "id": 318,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+            "id": 23,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+            "id": 35,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "single",
+            "joke": "My wife is really mad at the fact that I have no sense of direction.\nSo I packed up my stuff and right.",
+            "id": 200,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Your momma is so fat, you need to switch to NTFS to store a picture of her.",
+            "id": 54,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+            "id": 179,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "single",
+            "joke": "Never date a baker. They're too kneady.",
+            "id": 270,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+            "id": 44,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "The generation of random numbers is too important to be left to chance.",
+            "id": 39,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+            "id": 4,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "\"We messed up the keming again guys.\"",
+            "id": 20,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "single",
+            "joke": "My wife and I have reached the difficult decision that we do not want children.\nIf anybody does, please just send me your contact details and we can drop them off tomorrow.",
+            "id": 256,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+            "id": 33,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.",
+            "id": 183,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "I'll never forget my Granddad's last words to me just before he died. \"Are you still holding the ladder?\"",
+            "id": 207,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+            "id": 18,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "My grandfather says I'm too reliant on technology.\nI called him a hypocrite and unplugged his life support.",
+            "id": 177,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "Two fish in a tank. One turns to the other and says, \"Do you know how to drive this thing?\"",
+            "id": 184,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Debugging: Removing the needles from the haystack.",
+            "id": 40,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "I'd tell you a joke about NAT but I would have to translate.",
+            "id": 318,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "single",
+            "joke": "Yo mama is so old, she knew Burger King while he was still a prince.",
+            "id": 305,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
+            "id": 27,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.",
+            "id": 151,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "Oysters hate to give away their pearls because they are shellfish.",
+            "id": 89,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+            "id": 12,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "\"We messed up the keming again guys.\"",
+            "id": 20,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+            "id": 122,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "The generation of random numbers is too important to be left to chance.",
+            "id": 39,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "Two fish in a tank. One turns to the other and says, \"Do you know how to drive this thing?\"",
+            "id": 184,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+            "id": 3,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "single",
+            "joke": "My husband and I were happy for 20 years. And then we met.",
+            "id": 272,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "I was going to tell a dead baby joke. But I decided to abort.",
+            "id": 206,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+            "id": 125,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "My grandfather says I'm too reliant on technology.\nI called him a hypocrite and unplugged his life support.",
+            "id": 177,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Your momma is so fat, you need to switch to NTFS to store a picture of her.",
+            "id": 54,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "Me and my Jewish friend were eating lunch and I farted. He got mad so I said \"cmon man a little gas never killed anyone\".",
+            "id": 102,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.",
+            "id": 30,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "single",
+            "joke": "Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.",
+            "id": 194,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Documentation is like sex:\nWhen it's good, it's very good.\nWhen it's bad, it's better than nothing...",
+            "id": 304,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+            "id": 44,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+            "id": 34,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
+            "id": 27,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "Oysters hate to give away their pearls because they are shellfish.",
+            "id": 89,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "How do you make holy water? You boil the hell out of it.",
+            "id": 201,
+            "lang": "en"
+        }
+    ]
+}
